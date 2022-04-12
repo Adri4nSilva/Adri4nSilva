@@ -34,4 +34,6 @@ int main(int argc, char const *argv[]){
   <a href = "mailto:adriansilva296@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adrian-silva-091a29233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
- 
+##
+  
+![Snake animation](https://github.com/Adri4nSilva/Adri4nSilva/blob/output/github-contribution-grid-snake.svg)
