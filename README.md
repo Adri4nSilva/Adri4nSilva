@@ -7,7 +7,7 @@ using namespace std;
 
 int main(int argc, char const *argv[]){
   cout << "Yahoo, I'm Adrian 👋🏻" << endl;
-  cout << Studying Software Engineering - UTFPR Dois Vizinhos" << endl;
+  cout << "Studying Software Engineering - UTFPR Dois Vizinhos" << endl;
   cout << "Learning Java and C++";
 
   return 0;
