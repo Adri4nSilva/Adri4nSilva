@@ -1,3 +1,4 @@
+![GIF](https://cdn.discordapp.com/attachments/973965035741253662/974350961952849992/vivi.gif)
 
 ```c++
 #include <iostream>
