@@ -1,4 +1,4 @@
-![GIF](https://im5.ezgif.com/tmp/ezgif-5-85221b85eb.gif)
+
 ```c++
 #include <iostream>
 
